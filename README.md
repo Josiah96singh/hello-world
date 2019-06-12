@@ -1,8 +1,7 @@
 # hello-world
-Beginner repository 
+First repository 
 
+Greetings, 
 
-Hi all, 
-
-I'm an alien sent by mars to stop the invasion led by elon musk on our planet. 
-Mars rules all, signing out.
+I'm Matt Damon. I miss mars.
+Signing out.
